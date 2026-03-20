@@ -1,2 +1,3 @@
-# advanced-survey-tool-hw4d
-A repository to test GitHub automation for issue management
+# Advanced Survey Tool Hw4D
+
+A repository to test GitHub automation for issue management.
